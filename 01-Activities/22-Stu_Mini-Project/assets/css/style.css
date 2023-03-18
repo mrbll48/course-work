@@ -1,0 +1,73 @@
+header {
+    position: fixed;
+    padding: 0px 10px;
+    top: 0;
+    text-align: left;
+    font-size: 20px;
+    color: white;
+    height: 45px;
+}
+
+footer {
+    position: relative;
+    margin-top: 0;
+    bottom: 0;
+    text-align: center;
+  
+}
+
+header, 
+footer {
+    border-bottom: 5px solid #464646;
+    width: 100%;
+    background-color:rgb(151, 156, 108);
+}
+
+li {
+   list-style-type: none;
+    display: inline;
+    text-decoration: none;
+}
+
+* {
+    font-family: "Lucida Sans Unicode" sans-serif;
+}
+
+.h1
+ {
+    color: rgb(0, 0, 0);
+    background-color: rgb(108, 156, 118);
+    border-bottom: 5px solid #464646;
+    width: 100%;
+    text-align: center;
+}
+
+#contact {
+    text-align: center;
+    background-color: rgb(108, 156, 118);
+    width: 100%;
+    border-bottom: 5px solid #464646;
+  
+
+}
+
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.first-last-name,
+email-address {
+    font-size: 10px;
+}
+
+h2 {
+    font-size: 16px;
+    
+}
+
+main {
+    padding: 40px 0;
+}
